@@ -1,6 +1,7 @@
 ---
 # layout: cv
 title: Roberto Gambuzzi
+project_title: Roberto Gambuzzi
 ---
 # Roberto Gambuzzi
 Principal Software Engineer
