@@ -1,5 +1,5 @@
 ---
-# layout: cv
+layout: cv
 title: Roberto Gambuzzi
 project_title: Roberto Gambuzzi
 ---
