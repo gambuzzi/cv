@@ -7,7 +7,7 @@ project_title: Roberto Gambuzzi
 Principal Software Engineer
 
 <div id="links">
-<a href="roberto@gambuzzi.it">roberto@gambuzzi.it</a>
+<a href=">gambuzzi@gmail.com">gambuzzi@gmail.com</a>
 | 
 <a href="https://www.linkedin.com/in/gambuzzi/">Linkedin</a>
 </div>
@@ -16,9 +16,17 @@ Principal Software Engineer
 Python – GO – React – AWS
 
 ## Work Experience 
+
+### Toast
+#### Principal Software Engineer
+#### January 2022 - today – Search Frontend
+Toast is leader in the field of all-in-one software for restaurant.
+
+In my role, I collaborated closely with the esteemed reporting team to tackle the intricate challenge of generating comprehensive reports from an extensive dataset spanning multiple PetaBytes. Leveraging cutting-edge technologies such as PostgreSQL, Spark, Parquet, Zeppelin, Python, and DynamoDb, our focus was to ensure a seamless and expedient user experience for our valued customers. By harnessing the power of these advanced tools, we successfully streamlined the reporting process, enabling efficient data retrieval, analysis, and presentation, while maintaining optimal performance and responsiveness. This allowed us to deliver accurate and actionable insights to our clients, empowering them to make informed decisions based on the wealth of information at their disposal.
+
 ### Google 
 #### SWE-SRE
-#### July 2021 – today – Search Frontend
+#### July 2021 – January 2022 – Search Frontend
 As a senior software developer I implement new features and fix bugs in the Google internal CDN-like service.
 
 ### FabFitFun
