@@ -74,6 +74,7 @@ I was accountable for:
 * I created a common API backend to centralize all of the different APIs in the networking layer of Amazon.
 * I wrote UI React Components for the internal networking web tools.
 * I evolved the portal that was keeping track and detecting the Network Availability Risks.
+
 I was accountable for:
 * Redshift SLO
 * Networking web tools SLO
